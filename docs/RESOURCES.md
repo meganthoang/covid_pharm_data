@@ -36,24 +36,7 @@ To run your programs at the command line, type `cmd` into your Windows search ba
   python filename.py - run your python script (replace 'filename' with the actual
   file name)
   ```
-  
-## General Housekeeping
-
-Workflow:
-   - Every time you begin working, start with a "git pull" to make sure your local copy includes the most recent changes 
-      - On GitHub Desktop, select "Fetch Origin" and then "Pull from Origin" to pull any changes that may have occured since the last time you worked.
-   - When you've made any necessary changes, use "git status" to view the files you've changed.
-   - Use "git add -A" to add all files, or use "git add filename.py" to add a specific file
-   - Use "git commit -m "message"" to commit your changes - be sure to add a descriptive message summarizing your changes!
-      - On GitHub Desktop, under the "changes" tab, view any changes you've made, add a comment in the text box, and select the blue "commit to main" button
-   - Use "git push" to push your changes to the remote copy, and refresh the repository in your browser to make sure everything looks right.
-      - On GitHub Desktop, after you've committed your changes, push your changes to main 
  
-General Tips:
-   - Be sure to start out each time by pulling from the repository to make sure your local copy is updated
-   - Make sure you leave descriptive comments both in your commits and in your code so we can easily tell what changes have been made
-
-
 ## Some Helpful Links!
   1. [Kaggle Project Link](https://www.kaggle.com/hugomenz/uber-data-visualization)
   2. [Git Commands Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)

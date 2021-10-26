@@ -15,6 +15,7 @@
   9. [More Git Shortcuts](https://www.youtube.com/watch?v=ecK3EnyGD8o)
 
 
+
 You'll need to clone this repo using the command
   ```
   git clone https://github.com/meganthoang/covid_pharm_data
