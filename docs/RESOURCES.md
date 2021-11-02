@@ -24,13 +24,13 @@ We'll be using GitHub for Source/Version Control. Some basic Git commands:
 
 You'll need to clone this repo using the command
   ```
-  git clone https://github.com/meganthoang/uberanalytics.git
+  git clone https://github.com/meganthoang/covid_pharm_data
   ```
 
 ## Command Line Tips
 
 To run your programs at the command line, type `cmd` into your Windows search bar   to pull up your command prompt and use the following commands to navigate to and run your file. 
-  ```
+  ```nb
   cd - change directory (use cd .. to navigate out of your current folder)
   dir - view what's in the directory (the mac/linux version of this is 'ls')
   python filename.py - run your python script (replace 'filename' with the actual
